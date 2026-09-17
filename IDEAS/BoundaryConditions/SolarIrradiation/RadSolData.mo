@@ -191,6 +191,12 @@ If the correct data is not contained by the bus, custom solar data is calculated
 </html>", revisions="<html>
 <ul>
 <li>
+August 4, 2026, by Lucas Verleyen:<br/>
+Removed causal prefix for expandable connector `weaBus`.
+See <a href=\"https://github.com/open-ideas/IDEAS/issues/1500\">
+#1500</a>
+</li>
+<li>
 May 22, 2022, by Filip Jorissen:<br/>
 Fixed Modelica specification compatibility issue.
 See <a href=\"https://github.com/open-ideas/IDEAS/issues/1254\">
